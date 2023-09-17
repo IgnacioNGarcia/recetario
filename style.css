@@ -1,0 +1,69 @@
+body{
+    background-color: lightslategray;
+}
+.marca{
+    font-size: 40px;
+    color: darkslategrey;
+
+}
+.recetario{
+    margin-top: 15px;
+    margin-left: 75px;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 20px;
+    width: 500px;
+
+
+}
+.derechos{
+    font-size: small;
+    color: black;
+    font-style: italic;
+    
+}
+.foto-comida{
+    margin-left: 75px;
+    border-width: 0px;
+    border-style: solid;
+    border-style: solid;
+    border-style: solid;
+    border-radius: 20px;
+    width: 400px;
+}
+.ingredientes{
+    font-size: large;
+    font-style: oblique;
+}
+.preparacion{
+    font-size: x-large;
+    font-style: italic;
+}
+.nombre-comida{
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.cuadro-ingredientes{
+    display: inline-block;
+    width: 250px;
+    border-color: black;
+    border-radius: 5px;
+    border-style: dashed;
+    margin: 2px;
+}
+.cuadro-preparacion{
+    display: inline-block;
+    width: 420px;
+    border-color: black;
+    border-radius: 2px;
+    border-style: dashed;
+    margin: 0;
+
+}
+.presentacion{
+    font-size: 20px;
+    font-style: italic;
+
+}
